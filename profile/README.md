@@ -8,6 +8,6 @@ Team repo for our QUT IFQ636 Assignment 2 project, an Event Feedback System buil
 
 ## Team
 
-- Archie
-- Janelle
-- Xander
+- [Archie](https://github.com/arch2603)
+- [Janelle](https://github.com/janelleow299-byte)
+- [Xander](https://github.com/xdaybreakerx)
